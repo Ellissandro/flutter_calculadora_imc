@@ -1,4 +1,6 @@
-# calculadora_imc
+# Calculadora IMC
+
+Criando uma calculadora de IMC com flutter
 
 ## Projeto
 
